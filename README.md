@@ -7,4 +7,7 @@ Hello! My name is *Aheli*. I am currently studying Paleontology at the <em>Unive
 
 This is my current favorite dinosaur:
 
+![dinosaur](https://github.com/user-attachments/assets/551f16d6-7b69-404c-9e48-c2b1d61e9731)
 
+
+This is ornithomimus. It is a very cool bipedal dinosaur that lived in the late creatceous time period. To find out more you can learn about it here https://en.wikipedia.org/wiki/Ornithomimus
