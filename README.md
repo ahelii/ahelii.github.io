@@ -18,3 +18,12 @@ Some dinosaurs that I also am a fan of include:
 - Pterosaur
 - Itchthyovenator
 - Leaellynasaura
+
+
+I can also name some dinosaurs per time period. Let us make a table and try! 
+
+Time     | Triassic | Jurassic | Cretaceous |
+         |----------|----------|------------|
+aquatic  | Value 1  | Value 2  | Value 3  |
+2-legged | Value A  | Value B  | Value C  |
+
