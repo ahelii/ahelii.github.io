@@ -11,3 +11,10 @@ This is my current favorite dinosaur:
 
 
 This is ornithomimus. It is a very cool bipedal dinosaur that lived in the late creatceous time period. To find out more you can learn about it here https://en.wikipedia.org/wiki/Ornithomimus
+
+
+Some dinosaurs that I also am a fan of include: 
+- Hatzegopteryx
+- Pterosaur
+- Itchthyovenator
+- Leaellynasaura
