@@ -12,6 +12,7 @@ This is my current favorite dinosaur:
 
 This is ornithomimus. It is a very cool bipedal dinosaur that lived in the late creatceous time period. To find out more you can learn about it here https://en.wikipedia.org/wiki/Ornithomimus
 
+#### More dinosaurs
 
 Some dinosaurs that I also am a fan of include: 
 - Hatzegopteryx
@@ -19,11 +20,13 @@ Some dinosaurs that I also am a fan of include:
 - Itchthyovenator
 - Leaellynasaura
 
-
 I can also name some dinosaurs per time period. Let us make a table and try! 
 
 | Time     | Triassic         | Jurassic           | Cretaceous             |
 |----------|------------------|--------------------|------------------------|
 | Aquatic  | Nothosaurus      | Plesiosaurus       | Mosasaurus             |
 | 2-legged | Coelophysis      | Allosaurus         | Tyrannosaurus rex      |
+
+
+If you would like to find out more. Visit the html page!
 
