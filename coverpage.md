@@ -4,4 +4,4 @@
 
 > Software Documentation Rocks
 
-[Get Started](#home-page)
+[Scroll to Get Started](#home-page)
