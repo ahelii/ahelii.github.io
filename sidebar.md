@@ -4,13 +4,17 @@
 
 * [Home](README.md)
 
-* First Group
+* Overviews
 
   * [Coneptual Overview for Programers](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [Coneptual Overview for General Users](doctwo.md)
   
-* Second Group 
+* Tutorials 
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [End Users: Running Predictions](docfour.md)
+  * [Programmers: Training the Model](docfive.md)
+
+* Refernces
+
+  * [FAQ](docsix.md)
+  * [Troubleshooting](docseven.md)
