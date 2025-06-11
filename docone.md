@@ -1,10 +1,10 @@
-# 🧠 Conceptual Overview for Programmers: NLP in Space
+# Conceptual Overview for Programmers: NLP in Space
 
 **NLP in Space** is a character-level multilingual prediction system designed to enhance communication efficiency. It was developed in a futuristic scenario—onboard a heavily populated orbital space station in the year 2045. Multiple pods need to exchange information, but language barriers exist. The system predicts the next most likely character in a message and presents the top three options to the user, accelerating mutual understanding in high-stakes environments.
 
 ---
 
-## 🚀 Motivation and Context
+## Motivation and Context
 
 In space, voice communication may be limited or impractical. Astronauts use an eye-tracking interface that displays **three predicted characters** at a time. If the correct character isn't displayed, they must manually navigate a slower selection process.
 
@@ -16,37 +16,41 @@ To improve communication experience, the system is designed to:
 
 ---
 
-## 🔧 Key Technical Features
+## Key Technical Features
 
-### 🈺 Multilingual Character-Level Modeling
+The system is modular and built for multilingual character-level predictions. Below are its core architectural features.
+
+### Multilingual Character-Level Modeling
 - Supports **13 human languages** using Unicode character representations.
 - Languages were selected based on global popularity and dataset richness.
 
-### ⚙️ Configurable Model Pipeline
+### Configurable Model Pipeline
 - Accepts **3-character windows** as input.
 - Outputs **top-3 predictions** via a softmax layer.
 - Includes preprocessing tools for cleaning and encoding multilingual corpora.
 
-### 🔁 Pluggable Architecture
+### Pluggable Architecture
 - Supports **RNN**, **GRU**, or **Transformer** backbones.
 - Easily modifiable embeddings and model hyperparameters.
 
-### 📈 Customizable Evaluation Pipeline
+### Customizable Evaluation Pipeline
 - Tracks **processing time** per language.
 - Calculates **error rate** on a validation set.
 
 ---
 
-## 💡 Use Cases for Developers
+## Use Cases for Developers
 
-- **Model fine-tuning**: Adapt the model to a specific domain or dialect.
-- **Parameter exploration**: Modify learning rate, hidden layer size, context window, and batch size.
-- **Error analysis**: Use the accuracy testing utility to investigate prediction errors.
-- **Cross-lingual transfer**: Test how well the model generalizes from high-resource to low-resource languages.
+Developers working with NLP in Space may find it useful for:
+
+- **Model fine-tuning**: Adapt the model to a specific domain, dialect, or application context.
+- **Parameter exploration**: Modify key training values such as learning rate, hidden size, batch size, and context window.
+- **Error analysis**: Use the bundled accuracy testing utility to evaluate model performance and diagnose weaknesses.
+- **Cross-lingual transfer**: Analyze how well models trained on high-resource languages generalize to underrepresented languages by adjusting training corpus size.
 
 ---
 
-## 📦 Data Statement
+## Data Statement
 
 The model is trained using the **OPUS-100 dataset**, a multilingual collection of parallel corpora sourced from:
 
