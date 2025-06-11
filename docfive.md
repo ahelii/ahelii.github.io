@@ -41,7 +41,7 @@ def load_training_data(self):
 ```
 2. Add or remove language files in this method. More language resources: [OPUS dataset](https://opus.nlpl.eu/)
 
-**Important**: If you add a new language, be sure to update `char_to_idx` to include its characters.
+**⚠️ Important:** If you add a new language, be sure to update `char_to_idx` to include its characters.
 
 ---
 
@@ -60,7 +60,7 @@ If you want to train on your own corpora:
    - Are UTF-8 encoded
 3. Preprocessing is handled internally via `load_training_data()`.
 
-**Warning**: If characters in your corpus are not added to the model’s `char_to_idx`, predictions will fail.
+**⚠️ Warning:** If characters in your corpus are not added to the model’s `char_to_idx`, predictions will fail.
 
 ---
 
@@ -70,7 +70,7 @@ In `myprogram.py`, update the model constructor:
 ```python
 def __init__(self, embed_size=256, hidden_size=512, num_layers=2):
 ```
-**Caution**: Large parameter sizes and datasets may increase training time and GPU usage.
+**⚠️ Caution:** Large parameter sizes and datasets may increase training time and GPU usage.
 
 #### Adjust the context window:
 The default lookback size is 5 characters.
@@ -90,7 +90,7 @@ data.append(seq[-5:])
 ### (Optional) Step 6: Add Correct Answers
 Open `answer.txt` and add the correct next letter (one per line, case-insensitive).
 
-**Warning**: Ensure the number of answers matches the input lines.
+**⚠️ Warning:** Ensure the number of answers matches the input lines.
 
 ---
 
