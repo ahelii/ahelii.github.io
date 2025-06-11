@@ -35,7 +35,7 @@ Even if you’re probably not in space, this tool offers a glimpse into the futu
 
 ---
 
-## 🔧 What You Can Do with It
+## What You Can Do with It
 
 You don’t need to install anything or write code. NLP in Space is designed to be **simple and interactive**.
 
@@ -47,7 +47,7 @@ Here’s how to try it:
 - **Experiment with made-up or new words**
 - **Upload your own text**: You can provide sample text from your own language or one the model hasn’t seen yet, to test its learning behavior
 
-> ⚠️ You can access the tool in your browser. No installation required. [Insert link or interface instructions here.]
+> ⚠️ Follow tutorial on general usage
 
 ---
 

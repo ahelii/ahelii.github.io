@@ -4,7 +4,7 @@ Use this guide to fix common issues encountered during installation, training, o
 
 ---
 
-### ❗ Error: `ModuleNotFoundError: No module named 'torch'`
+### Error: `ModuleNotFoundError: No module named 'torch'`
 **Cause**: PyTorch is not installed.
 
 **Fix**:
@@ -14,7 +14,7 @@ pip install torch
 
 ---
 
-### ❗ Error: `Permission denied` or `Command not found`
+### Error: `Permission denied` or `Command not found`
 **Cause**: You might be in the wrong directory or using a restricted environment.
 
 **Fix**:
@@ -25,7 +25,7 @@ cd nlp-in-space
 
 ---
 
-### ❗ Error: `CUDA out of memory`
+### Error: `CUDA out of memory`
 **Cause**: The model is too large for your available GPU.
 
 **Fix**:
@@ -42,7 +42,7 @@ python myprogram.py train --device cpu
 
 ---
 
-### ❗ Issue: Predictions contain unknown or blank characters
+### Issue: Predictions contain unknown or blank characters
 **Cause**: Some characters in your input are not in the model’s vocabulary.
 
 **Fix**:
