@@ -11,8 +11,8 @@
   
 * Tutorials 
 
-  * [End Users: Running Predictions](docfour.md)
   * [Programmers: Training the Model](docfive.md)
+  * [End Users: Running Predictions](docfour.md)
 
 * Refernces
 
