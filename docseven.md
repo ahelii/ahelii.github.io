@@ -52,4 +52,4 @@ python myprogram.py train --device cpu
 
 ---
 
-Need more help? Visit the [FAQ](./FAQ.md) or open a GitHub issue for support.
+Need more help? Visit the [FAQ](docsix.md) or open a GitHub issue for support.
