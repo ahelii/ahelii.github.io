@@ -14,8 +14,8 @@
   * [Programmers: Training the Model](docfive.md)
   * [End Users: Running Predictions](docfour.md)
 
-* Refernces
+* References
 
   * [FAQ](docsix.md)
   * [Troubleshooting](docseven.md)
-  * [Datastatement](doceight.md)
+  * [Data statement](doceight.md)
