@@ -19,9 +19,8 @@ This system:
 - Speeds up communication
 - Reduces the effort needed to type
 
-If your letter is among the three, you simply select it. If not, there’s a slower backup option—but the goal is to make that as rare as possible.
+If your letter is among the three, you simply select it.
 
-The system can also use previous messages from your communication center to provide context-aware predictions.
 
 ---
 
@@ -31,13 +30,13 @@ In the story this tool is based on, astronauts need to communicate with each oth
 
 The more astronauts use NLP in Space, the better the model becomes at helping them understand one another.
 
-Even if you’re probably not in space, this tool offers a glimpse into the future. It shows how artificial intelligence could support **hands-free communication**, potentially without typing at all. For example, users may one day signal guesses using only their eyes.
+Even if you’re probably not in space, this tool offers a glimpse into the future.
 
 ---
 
 ## What You Can Do with It
 
-You don’t need to install anything or write code. NLP in Space is designed to be **simple and interactive**.
+The beta version requires you to download and work with code.
 
 Here’s how to try it:
 
@@ -47,7 +46,7 @@ Here’s how to try it:
 - **Experiment with made-up or new words**
 - **Upload your own text**: You can provide sample text from your own language or one the model hasn’t seen yet, to test its learning behavior
 
-> ⚠️ Follow tutorial on general usage
+> ⚠️ Follow tutorial on [End User Page](docfour.md)
 
 ---
 
@@ -59,8 +58,6 @@ Here’s how to try it:
 - How to apply that knowledge to make good guesses
 
 For example, in English, it learned that **"q" is usually followed by "u"**.
-
-Just like the predictive text on your phone, it uses what you've typed so far to suggest what comes next.
 
 ---
 
@@ -75,4 +72,4 @@ Just like the predictive text on your phone, it uses what you've typed so far to
 
 Curious how it might guess the next letter of your name, your favorite word, or something in another language?
 
-Give it a try—and see how machines can learn to understand human communication, one letter at a time.
+Give it a try! See how machines can learn to understand human communication, one letter at a time.

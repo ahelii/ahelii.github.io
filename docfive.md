@@ -21,7 +21,7 @@ Train or fine-tune the multilingual character-level NLP in Space model.
 ### Step 1: Set Up the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo-placeholder
+git clone https://github.com/ahelii/nlp-in-space
 cd nlp-in-space
 ```
 2. Install dependencies:
