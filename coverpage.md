@@ -4,4 +4,4 @@
 
 > Software Documentation Rocks
 
-[Scroll to Get Started](#home-page)
+[Scroll to Get Started](README.md)

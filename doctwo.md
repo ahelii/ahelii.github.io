@@ -2,7 +2,7 @@
 
 ### Welcome to the Future of Typing
 
-Imagine you're an astronaut aboard a busy space station in the year **2045**. Hundreds of people are in orbit around Earth, and communication is vital. However, direct spoken communication isn’t always possible—space pods, language barriers, and environmental noise all make it challenging.
+Imagine you're an astronaut aboard a busy space station in the year **2045**. Hundreds of people are in orbit around Earth, and communication is vital. However, direct spoken communication isn’t always possible. Space pods, language barriers, and environmental noise all make it challenging.
 
 Instead of talking, you use a smart typing system that helps you build messages **one character at a time**.
 
