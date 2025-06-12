@@ -42,9 +42,7 @@ Happy birth
 ### (Optional) Step 3: Add Correct Answers
 To determine model accuracy:
 1. Open `answer.txt`
-2. Enter the correct next letter for each line in `input.txt` (case-insensitive).
-    
-Example Happy New Ye(a)r
+2. Enter the correct next letter for each line in `input.txt` (case-insensitive). Example Happy New Ye(a)r.
 ```
 a
 ```
@@ -83,6 +81,7 @@ d!t
 ```
 
 ---
+
 ### Step 6: View Output
 Open `output.txt` to see the model’s top-3 guesses for each input phrase.
 

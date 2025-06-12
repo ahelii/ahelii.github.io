@@ -87,6 +87,8 @@ data.append(seq[-5:])
 1. Open `input.txt`
 2. Type the test messages (one per line). The model will guess the next letter for each.
 
+---
+
 ### (Optional) Step 6: Add Correct Answers
 Open `answer.txt` and add the correct next letter (one per line, case-insensitive).
 
@@ -104,12 +106,15 @@ Test:
 python myprogram.py test --work_dir work --test_file input.txt --output_file output.txt
 ```
 
+---
+
 ### (Optional) Step 8: Measure Accuracy
 ```bash
 python accuracytesting.py
 ```
 This will compare predictions (`output.txt`) to answers (`answer.txt`) and output accuracy.
 
+*Challenge:* Use a different accruacy calculation tool to see how accurate the model is!
 ---
 
 ### Step 9: View Predictions

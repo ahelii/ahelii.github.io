@@ -1,12 +1,12 @@
 # Conceptual Overview for Programmers: NLP in Space
 
-**NLP in Space** is a character-level multilingual prediction system designed to enhance communication efficiency. It was developed in a futuristic scenario—onboard a heavily populated orbital space station in the year 2045. Multiple pods need to exchange information, but language barriers exist. The system predicts the next most likely character in a message and presents the top three options to the user, accelerating mutual understanding in high-stakes environments.
+**NLP in Space** is a character-level multilingual prediction system designed to enhance communication efficiency. It was developed in a futuristic scenario: onboard a heavily populated orbital space station in the year 2045. Multiple pods need to exchange information, but language barriers exist. The system predicts the next most likely character in a message and presents the top three options to the user, accelerating mutual understanding in high-stakes environments.
 
 ---
 
 ## Motivation and Context
 
-In space, voice communication may be limited or impractical. Astronauts use an eye-tracking interface that displays **three predicted characters** at a time. If the correct character isn't displayed, they must manually navigate a slower selection process.
+In space, voice communication may be limited or impractical. Astronauts use an eye tracking interface that displays **three predicted characters** at a time. If the correct character isn't displayed, they must manually navigate a slower selection process.
 
 To improve communication experience, the system is designed to:
 

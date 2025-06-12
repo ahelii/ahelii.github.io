@@ -85,4 +85,4 @@ Try these sources:
 - [Project Gutenberg](https://www.gutenberg.org/) (for public domain texts)
 
 ---
-Need more help? Refer to the [Troubleshooting Guide](./TROUBLESHOOTING.md) or open an issue on the project GitHub.
+Need more help? Refer to the [Troubleshooting Guide](docseven.md).
